@@ -11,7 +11,7 @@
 ✨ ✨ ✨
 👋 I'm to404hanga
 
-🔭 I'm a Back-end development engineer and currently working on netease
+🔭 I'm a Back-end development engineer
 
 🌱 I’m currently learning dgut
 
