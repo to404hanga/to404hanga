@@ -20,8 +20,8 @@
 ## My Skills
 
   <p algin="right" width="320px">
-      <!-- <img height="50" src="https://user-images.githubusercontent.com/86986628/166917156-8e41705c-9a45-40c9-91c5-88a9725581ae.svg" width="50" alt="html" style="max-width: 100%;"> -->
-      <!-- <img height="50" src="https://user-images.githubusercontent.com/86986628/186607307-19248a74-3ec4-4bfd-b368-d44a27b6606f.svg" width="50" alt="css" style="max-width: 100%;"> -->
+      <img height="50" src="https://camo.githubusercontent.com/8e9173962f376d3d3de2ec9e2e073681cbdb0720d2ac5b19ac685adbbdada10c/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f676f2d6f726967696e616c2e737667" width="50" alt="html" style="max-width: 100%;">
+      <img height="50" src="https://camo.githubusercontent.com/f3f277416b626cdefa735a7861d235d491efc56a7968239179d03ed37ea0b1d2/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f72656469732d6f726967696e616c2d776f72646d61726b2e737667" width="50" alt="css" style="max-width: 100%;">
       <!-- <img height="50" src="https://user-images.githubusercontent.com/86986628/186025766-5e1b4a99-194c-44c0-a345-791cc0910038.svg" width="50" alt="javascript" style="max-width: 100%;"> -->
       <!-- <img height="50" src="https://user-images.githubusercontent.com/86986628/186025841-0c104922-84d3-44ef-9dd4-328e62160068.svg" width="50" alt="react" style="max-width: 100%;"> -->
       <!-- <img height="50" src="https://user-images.githubusercontent.com/86986628/186042940-666ff3ee-03b6-4ca3-b3a6-8639e84dc642.png" width="50" alt="next" style="max-width: 100%;"> -->
