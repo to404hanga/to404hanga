@@ -35,7 +35,9 @@
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186612155-d7d06a1d-ddc9-4049-81cf-50ebad958c7b.svg" width="50" alt="gitlab" style="max-width: 100%;">
       <img height="50" src="https://user-images.githubusercontent.com/86986628/186612756-58211f7d-f4fa-492b-9db1-434abc0a4083.svg" width="50" alt="linux" style="max-width: 100%;">
   </p>
-  
+
+[![to404hanga's GitHub stats](https://github-readme-stats.vercel.app/api?username=to404hanga&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+
 ### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/to404hanga/count.svg)
